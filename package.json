@@ -1,17 +1,20 @@
 {
   "name": "gettext-merge",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Merge .pot with .po ",
   "main": "./lib/run.js",
   "author": "Bruno Bertolini",
-  "license": "MIT",  
-  "preferGlobal": "true",
+  "license": "MIT",
   "directories": {
     "bin": "./bin"
-  },  
+  },
   "dependencies": {
     "colors": "^1.1.2",
     "gettext-parser": "^1.1.2",
-    "yargs": "^4.1.0"
+    "yargs": "^13.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edudip/gettext-merge/"
   }
-}  
+}
