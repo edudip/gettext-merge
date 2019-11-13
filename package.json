@@ -1,6 +1,6 @@
 {
   "name": "gettext-merge",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Merge .pot with .po ",
   "main": "./lib/run.js",
   "author": "Bruno Bertolini",
