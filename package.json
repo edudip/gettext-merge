@@ -1,6 +1,6 @@
 {
   "name": "@edudip/gettext-merge",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Merge .pot with .po ",
   "main": "./lib/run.js",
   "author": "Bruno Bertolini",
